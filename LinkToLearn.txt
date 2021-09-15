@@ -1,0 +1,8 @@
+https://www.mygreatlearning.com/blog/why-is-time-complexity-essential/
+
+
+By definition, the Space complexity of an algorithm quantifies the amount 
+of space or memory taken by an algorithm to run as a function of the length of the input. 
+While Time complexity of an algorithm quantifies the amount of time taken by an algorithm to 
+run as a function of the length of the input. Now that we know why Time complexity is so significant, 
+it is time to understand what is time complexity and how to evaluate it.
