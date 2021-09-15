@@ -1,5 +1,0 @@
---What is recursion ?
--->Recursion is a way of solving a problem by having a function calling itself.
-*********Performing the same operation multiple times with different inputs
-*********In every step we try smaller input to make the problem smaller.
-*********Base condition is needed to stop the recursion, otherwise infinite loop will occur.
