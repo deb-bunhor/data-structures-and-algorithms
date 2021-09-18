@@ -119,7 +119,7 @@ public class Functions {
     }
 
     public int sumDiagonal(int[][] arr){
-        
+        return 1;
     }
     
 
